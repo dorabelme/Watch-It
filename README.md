@@ -5,7 +5,7 @@ Nodemon Command Line Tool built using Node.js and different packages.
 ## Short demo:
 
 <p align ="center">
-<img src="./watchit.gif" alt="command line tool app example">
+<img src="./watch.gif" alt="command line tool app example">
 </p>
 
 ## Tech Stack and Dependencies
